@@ -19,14 +19,6 @@ eco friendly detailing website
                 <li><a href="product.html">Product Recommendations</a></li>
                 <li><a href="community.html">Community Forum</a></li>
                 <li><a href="resources.html">Resources</a></li>
-                <section id="resources">
-            <h2>Resources</h2>
-            <p>The Resources page is a treasure trove of information for those looking to dive deeper into sustainability and detailing tips and tricks. Explore resources designed to enhance your knowledge.</p>
-<footer>
-        <p>&copy; 2024 Porsche Perfection. All rights reserved.</p>
-        <p><a href="projectp2.html">Back to Home</a></p>
-    </footer>
-        </section>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
                 <li><a href="newsletter.html">Newsletter Signup</a></li>
