@@ -1,5 +1,3 @@
-
-eco friendly detailing website
 <!DOCTYPE html>
 <html lang="en">
 <head>
