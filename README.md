@@ -15,15 +15,6 @@ eco friendly detailing website
             <ul>
                 <li><a href="project.html">Home</a></li>
                 <li><a href="about.html">About Us</a></li>
-                touch path/to/your-directory/your-file.txt
-                <section id="about">
-    <h2>About Us</h2>
-    <p>We started this company to bring the best of the best service to those who take immense pride in their vehicles. We believe in hard work, determination, and impeccable service.</p>
-    <footer>
-        <p>&copy; 2024 Porsche Perfection. All rights reserved.</p>
-        <p><a href="/PorschePerfection.html">Back to Home</a></p>
-    </footer>
-</section>
                 <li><a href="sustainable.html">Sustainable Practices</a></li>
                 <li><a href="product.html">Product Recommendations</a></li>
                 <li><a href="community.html">Community Forum</a></li>
