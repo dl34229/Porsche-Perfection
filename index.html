@@ -11,11 +11,21 @@ a:visited {color: red;}
 a:focus, a:hover {color: pink;background-color: #fff;}
 a:active {color: pink;background-color: #fff;}
   h1 {font-family: "Marko One", Georgia, serif;color:maroon;}
-        header{text-align: center;background-color: rgba(255,255,255,.5); background: url(road.png) center top repeat-x;
-  background: 
-    url(road.png)10% left top repeat-y,
-    url(road.png)10% right top repeat-y,}
-        #info p {font-style: italic;}
+        header{text-align: center;
+  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent background color */
+  background-image: 
+    url(road.png), /* First image for the left */
+    url(road.png); /* Second image for the right */
+  background-position: 
+    10% left top, /* Position for the left image */
+    10% right top; /* Position for the right image */
+  background-repeat: 
+    repeat-y, /* Repeat the left image vertically */
+    repeat-y; /* Repeat the right image vertically */
+  height: 200px; /* Set a height for the header */
+  width: 100%; /* Ensure it spans full width */}
+#info p {
+  font-style: italic;
 </style>
 </head>
 <body>
